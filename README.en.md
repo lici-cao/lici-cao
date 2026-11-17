@@ -42,6 +42,10 @@ A practical collection of AI Skills for job hunting and development: resume poli
 
 Turning textbook layered architecture into complete systems that run and can be demoed.
 
+🛵 [**Sky Take Out**](https://github.com/lici-cao/sky-take-out) · Java
+
+苍穹外卖 — a food-delivery platform with an admin console and a WeChat mini-program, implementing every endpoint across 17 controllers (staff, categories, dishes, setmeals, shop status, cart, orders, address book, workspace, reports) on Spring Boot 3.5 + MyBatis + MySQL, with dual JWT interceptors, DB scripts, and mini-program source.
+
 📦 [**jxcexample**](https://github.com/lici-cao/jxcexample) · Java
 
 An inventory management system example with a complete loop of products, stock, documents, and statistics — usable as a course design foundation.
