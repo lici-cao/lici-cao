@@ -63,7 +63,7 @@ AI 健身计划生成系统。动作库检索增强（RAG）+ 规则筛选 + 大
 | 后端 | Java 17、Spring Boot 3、Spring Security、JWT、Spring Data JPA |
 | 前端 | Vue 3、TypeScript、Vite、Element Plus、Pinia、ECharts |
 | 数据 | MySQL 8（utf8mb4）、幂等迁移脚本 |
-| AI | DeepSeek、豆包（火山方舟）、智谱 GLM，统一 OpenAI 兼容网关 + SSE 流式 |
+| AI | DeepSeek、kimi、QWen，智谱 GLM，统一 OpenAI 兼容网关 + SSE 流式 |
 | 交付 | GitHub Actions 云端构建、jpackage 打包 Windows 安装包、一键启动脚本 |
 
 ---
