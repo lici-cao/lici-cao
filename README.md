@@ -42,6 +42,10 @@ AI 健身计划生成系统。动作库检索增强（RAG）+ 规则筛选 + 大
 
 把课本上的分层架构写成能跑、能演示的完整系统。
 
+🛵 [**苍穹外卖**](https://github.com/lici-cao/sky-take-out) · Java
+
+管理端 + 微信小程序用户端的外卖系统，员工、分类、菜品、套餐、店铺状态、购物车、订单、地址簿、工作台与报表共 17 个 Controller 全接口实现；Spring Boot 3.5 + MyBatis + MySQL，双 JWT 拦截器，附数据库脚本与小程序源码。
+
 📦 [**jxcexample**](https://github.com/lici-cao/jxcexample) · Java
 
 进销存管理系统示例，包含商品、库存、单据与统计的完整业务闭环，可直接作为课程设计基础。
